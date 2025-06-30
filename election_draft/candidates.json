@@ -1,0 +1,296 @@
+{
+  "1988_Republican": {
+    "id": 33277,
+    "name": "George H. W. Bush",
+    "defender": 0,
+    "party_defender": 0,
+    "vote": 426,
+    "date": "1988-11-08",
+    "win": 1,
+    "types": [
+      "Person",
+      "Political Candidate",
+      "Elected Representative",
+      "Business Person",
+      "Public Official"
+    ]
+  },
+  "1988_Democratic": {
+    "id": 34143,
+    "name": "Michael Dukakis",
+    "defender": 0,
+    "party_defender": 0,
+    "vote": 111,
+    "date": "1988-11-08",
+    "win": 0,
+    "types": [
+      "Person",
+      "Political Candidate",
+      "Elected Representative"
+    ]
+  },
+  "1992_Democratic": {
+    "id": 28668,
+    "name": "Bill Clinton",
+    "defender": 0,
+    "party_defender": 0,
+    "vote": 370,
+    "date": "1992-11-03",
+    "win": 1,
+    "types": [
+      "Person",
+      "Political Candidate",
+      "Elected Representative"
+    ]
+  },
+  "1992_Republican": {
+    "id": 33277,
+    "name": "George H. W. Bush",
+    "defender": 1,
+    "party_defender": 1,
+    "vote": 168,
+    "date": "1992-11-03",
+    "win": 0,
+    "types": [
+      "Person",
+      "Political Candidate",
+      "Elected Representative",
+      "Business Person",
+      "Public Official"
+    ]
+  },
+  "1996_Democratic": {
+    "id": 28668,
+    "name": "Bill Clinton",
+    "defender": 1,
+    "party_defender": 1,
+    "vote": 379,
+    "date": "1996-11-05",
+    "win": 1,
+    "types": [
+      "Person",
+      "Political Candidate",
+      "Elected Representative"
+    ]
+  },
+  "1996_Republican": {
+    "id": 14002,
+    "name": "Bob Dole",
+    "defender": 0,
+    "party_defender": 0,
+    "vote": 159,
+    "date": "1996-11-05",
+    "win": 0,
+    "types": [
+      "Person",
+      "Political Candidate",
+      "Elected Representative",
+      "Lobbyist"
+    ]
+  },
+  "2000_Republican": {
+    "id": 28776,
+    "name": "George W. Bush",
+    "defender": 0,
+    "party_defender": 0,
+    "vote": 271,
+    "date": "2000-11-07",
+    "win": 1,
+    "types": [
+      "Person",
+      "Political Candidate",
+      "Business Person",
+      "Public Official"
+    ]
+  },
+  "2000_Democratic": {
+    "id": 14210,
+    "name": "Al Gore",
+    "defender": 0,
+    "party_defender": 1,
+    "vote": 266,
+    "date": "2000-11-07",
+    "win": 0,
+    "types": [
+      "Person",
+      "Political Candidate",
+      "Elected Representative",
+      "Business Person",
+      "Public Official"
+    ]
+  },
+  "2004_Republican": {
+    "id": 28776,
+    "name": "George W. Bush",
+    "defender": 1,
+    "party_defender": 1,
+    "vote": 286,
+    "date": "2004-11-02",
+    "win": 1,
+    "types": [
+      "Person",
+      "Political Candidate",
+      "Business Person",
+      "Public Official"
+    ]
+  },
+  "2004_Democratic": {
+    "id": 13377,
+    "name": "John Kerry",
+    "defender": 0,
+    "party_defender": 0,
+    "vote": 251,
+    "date": "2004-11-02",
+    "win": 0,
+    "types": [
+      "Person",
+      "Political Candidate",
+      "Elected Representative"
+    ]
+  },
+  "2008_Democratic": {
+    "id": 13503,
+    "name": "Barack Obama",
+    "defender": 0,
+    "party_defender": 0,
+    "vote": 365,
+    "date": "2008-11-04",
+    "win": 1,
+    "types": [
+      "Person",
+      "Political Candidate",
+      "Elected Representative"
+    ]
+  },
+  "2008_Republican": {
+    "id": 13443,
+    "name": "John McCain",
+    "defender": 0,
+    "party_defender": 1,
+    "vote": 173,
+    "date": "2008-11-04",
+    "win": 0,
+    "types": [
+      "Person",
+      "Political Candidate",
+      "Elected Representative"
+    ]
+  },
+  "2012_Democratic": {
+    "id": 13503,
+    "name": "Barack Obama",
+    "defender": 1,
+    "party_defender": 1,
+    "vote": 332,
+    "date": "2012-11-06",
+    "win": 1,
+    "types": [
+      "Person",
+      "Political Candidate",
+      "Elected Representative"
+    ]
+  },
+  "2012_Republican": {
+    "id": 34136,
+    "name": "Mitt Romney",
+    "defender": 0,
+    "party_defender": 0,
+    "vote": 206,
+    "date": "2012-11-06",
+    "win": 0,
+    "types": [
+      "Person",
+      "Political Candidate",
+      "Elected Representative",
+      "Business Person",
+      "Public Official",
+      "Lawyer"
+    ]
+  },
+  "2016_Republican": {
+    "id": 15108,
+    "name": "Donald Trump",
+    "defender": 0,
+    "party_defender": 0,
+    "vote": 304,
+    "date": "2016-11-08",
+    "win": 1,
+    "types": [
+      "Person",
+      "Political Candidate",
+      "Business Person"
+    ]
+  },
+  "2016_Democratic": {
+    "id": 13191,
+    "name": "Hillary Clinton",
+    "defender": 0,
+    "party_defender": 1,
+    "vote": 227,
+    "date": "2016-11-08",
+    "win": 0,
+    "types": [
+      "Person",
+      "Political Candidate",
+      "Elected Representative",
+      "Business Person",
+      "Public Official",
+      "Lawyer"
+    ]
+  },
+  "2020_Democratic": {
+    "id": 13047,
+    "name": "Joe Biden",
+    "defender": 0,
+    "party_defender": 0,
+    "vote": 306,
+    "date": "2020-11-03",
+    "win": 1,
+    "types": [
+      "Person",
+      "Political Candidate",
+      "Elected Representative"
+    ]
+  },
+  "2020_Republican": {
+    "id": 15108,
+    "name": "Donald Trump",
+    "defender": 1,
+    "party_defender": 1,
+    "vote": 232,
+    "date": "2020-11-03",
+    "win": 0,
+    "types": [
+      "Person",
+      "Political Candidate",
+      "Business Person"
+    ]
+  },
+  "2024_Republican": {
+    "id": 15108,
+    "name": "Donald Trump",
+    "defender": 0,
+    "party_defender": 0,
+    "vote": 312,
+    "date": "2024-11-05",
+    "win": 1,
+    "types": [
+      "Person",
+      "Political Candidate",
+      "Business Person"
+    ]
+  },
+  "2024_Democratic": {
+    "id": 416190,
+    "name": "Kamala Harris",
+    "defender": 0,
+    "party_defender": 1,
+    "vote": 226,
+    "date": "2024-11-05",
+    "win": 0,
+    "types": [
+      "Organization",
+      "Political Fundraising Committee"
+    ]
+  }
+}
